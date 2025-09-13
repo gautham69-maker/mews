@@ -1,0 +1,13 @@
+{
+  "survey_no": "143/2",
+  "status": "Approved",
+  "location": { "village": "Katteri", "district": "Chengalpattu", "full": "Katteri, Chengalpattu, Tamil Nadu" },
+  "layout": { "name": "Green Meadows" },
+  "rating": { "score_0_10": 7.4 },
+  "buildability": { "outcome": "Feasible", "fsi": 2.0, "coverage": 68 },
+  "documents": [
+    { "doc_type": "EC_SUMMARY", "access_level": "PUBLIC", "dept_name": "Registration Dept", "issued_on": "2025-01-02", "verified_on": "2025-01-12" },
+    { "doc_type": "ZONING_NOTE", "access_level": "PUBLIC", "dept_name": "DTCP", "issued_on": "2024-11-10", "verified_on": "2025-01-02" },
+    { "doc_type": "CERTIFIED_DEED", "access_level": "REQUEST", "dept_name": "Registration Dept", "issued_on": "2024-12-18", "verified_on": "2025-02-03" }
+  ]
+}

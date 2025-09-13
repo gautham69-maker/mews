@@ -1,0 +1,39 @@
+[
+  {
+    "id": "p_1001",
+    "facts": {
+      "survey_no": "143/2",
+      "layout_name": "Green Meadows",
+      "village": "Katteri",
+      "mandal": "Kanchipuram",
+      "district": "Chengalpattu",
+      "state": "TN"
+    },
+    "score": { "total": 7.4, "ownership": 2.0, "approvals": 1.8, "zoning": 1.6, "encumbrance": 1.0, "litigation": 0.6, "onground": 0.4 },
+    "centroid": [80.0145, 12.7598],
+    "bbox": [80.012, 12.758, 80.017, 12.762],
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[80.012,12.758],[80.017,12.758],[80.017,12.762],[80.012,12.762],[80.012,12.758]]]
+    }
+  },
+  {
+    "id": "p_1002",
+    "facts": {
+      "survey_no": "512/7B",
+      "layout_name": "Sunrise Enclave",
+      "door_no": "4-66",
+      "village": "Perungulathur",
+      "mandal": "Tambaram",
+      "district": "Chengalpattu",
+      "state": "TN"
+    },
+    "score": { "total": 8.6 },
+    "centroid": [80.0942, 12.9041],
+    "bbox": [80.092,12.903,80.096,12.905],
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[80.092,12.903],[80.096,12.903],[80.096,12.905],[80.092,12.905],[80.092,12.903]]]
+    }
+  }
+]
